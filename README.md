@@ -36,19 +36,34 @@ Practical Guidelines for Legal Design in Media Art
 
 ## 構成  
 
-[メディアアートにおけるリーガルデザインの実践的ガイドライン](https://github.com/yosukesakai/Practical_Guidelines_for_Legal_Design_in_Media_Art/blob/master/Practical_Guidelines_for_Legal_Design_in_Media_Art.md)  
+[README](https://github.com/yosukesakai/Practical_Guidelines_for_Legal_Design_in_Media_Art/blob/master/README.md) (このファイルです)  
+
+[メディアアートにおけるリーガルデザインの実践的ガイドライン](https://github.com/yosukesakai/Practical_Guidelines_for_Legal_Design_in_Media_Art/blob/master/Practical_Guidelines_for_Legal_Design_in_Media_Art.md) (本体)  
  
 
 
 ## 関連情報
 
-オープン化のリーガルデザインについての情報は、[オープン化のガイドライン](https://github.com/YCAMInterlab/OpenSharingGuideline/)を参照ください。  
+YCAMにおけるオープン化を伴うリーガルデザインの経験 ([YCAMにおけるオープン化の試み](http://special.ycam.jp/interlab/projects/open-sharing.html)) をもとに制作しています。  
 
-YCAMにおけるオープン化を伴うリーガルデザインの事例([YCAMにおけるオープン化の試み](http://special.ycam.jp/interlab/projects/open-sharing.html))を含んでいます。  
+オープン化のリーガルデザインについての具体的な方法論については、[オープン化のガイドライン](https://github.com/YCAMInterlab/OpenSharingGuideline/) を参照ください。  
 
-法的なツールの事例について、成果のオープン化を実現する共同研究開発のための契約書ひながたである[GRP Contract Form](https://github.com/YCAMInterlab/GRPContractForm) (以降"GRP CF"といいます)や、参加型イベントのための同意書(以降"参加型イベント同意書"といいます)を挙げています。  
+法的なツールの事例について、以下を参照しています。  
 
-参加型イベントのための同意書には、[YCAMサマースクールでの成果公開の同意書](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS/blob/master/Consent_Form_for_YCAM_Summer_School/Consent_Form_for_YCAM_Summer_School_TOPPAGE.md)、[ThinkThingsで制作した「あそび」の公開についての同意書](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS/blob/master/Consent_Form_for_Think_Things/Consent_Form_for_Think_Things_TOPPAGE.md)、[2015 YCAM Sports Hackathon の参加者のための同意書](https://github.com/YCAMInterlab/SportsHackathon_ConsentForm)を含んでいます。  
+- 成果のオープン化を実現する共同研究開発のための契約書ひながた  
+
+	[GRP Contract Form](https://github.com/YCAMInterlab/GRPContractForm) 
+
+- 参加型イベントのための同意書  
+
+	[YCAMサマースクールでの成果公開の同意書](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS/blob/master/Consent_Form_for_YCAM_Summer_School/Consent_Form_for_YCAM_Summer_School_TOPPAGE.md)  
+
+	[ThinkThingsで制作した「あそび」の公開についての同意書](https://github.com/YCAMInterlab/YCAM_WORKSPACE_DOCS/blob/master/Consent_Form_for_Think_Things/Consent_Form_for_Think_Things_TOPPAGE.md)  
+
+	[2015 YCAM Sports Hackathon の参加者のための同意書](https://github.com/YCAMInterlab/SportsHackathon_ConsentForm)  
+
+  
+アップデートのリクエスト(ご要望)はウェルカムです。  
 
   
 ## 開発履歴
@@ -56,15 +71,15 @@ YCAMにおけるオープン化を伴うリーガルデザインの事例([YCAM�
 2018.12 Ver.0.1公開  
 2019.1 本文の細かな修正、タイトル修正、リポジトリ移動    
    
-  
----
-
-<!-- 
+---  
 
 ## Licenses and Credits  
-準備中  
+ライセンスは検討中です。  
   
+---  
 
+
+<!-- 
 
 ## Disclaimer
    
