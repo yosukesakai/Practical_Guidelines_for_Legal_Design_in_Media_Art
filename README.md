@@ -5,7 +5,7 @@ Practical Guidelines for Legal Design in Media Art
 
 ## はじめに  
   
-これは、リーガルデザインを実践的、効果的に実施することを目指したガイドラインです。リーガルデザインには様々な定義があり、たとえば「法の機能を単に規制として捉えるのではなく、物事や社会を促進・ドライブしていくための『潤滑油』のようなものとして捉え」、「国家が一方的に定めるルールに従うのではなく、私人の側から自発的にルールメイキングしていくという考え方、その手法」とされます \*1。さまざまな効果が期待されますが、実践的な方法論や指針はみあたりません。  
+これは、リーガルデザインを実践的、効果的に実施することを目指したガイドラインです。リーガルデザインには様々な定義があり、たとえば「法の機能を単に規制として捉えるのではなく、物事や社会を促進・ドライブしていくための『潤滑油』のようなものとして捉え」、「国家が一方的に定めるルールに従うのではなく、私人の側から自発的にルールメイキングしていくという考え方、その手法」とされます \*1。さまざまな効果が期待されますが、実践的な方法論や指針は、いまだ十分に示されているとは言えません。  
 
 このガイドラインは、山口情報芸術センター[YCAM]でのオープン化 \*2 に関するリーガルデザインの経験(と反省) \*3 から、その成果や可能性に関するキーワードを取り出し、抽象化して、リーガルデザインを実践する際にガイドとなると考えられる推奨事項や注意点、期待される効果を表現したものです。メディアアートにおけるリーガルデザインでの利用を想定していますが、内容を一般化し、より広範に活用できることを目指しています。  
 
@@ -36,9 +36,9 @@ Practical Guidelines for Legal Design in Media Art
 
 ## 構成  
 
-[README](https://github.com/yosukesakai/Practical_Guidelines_for_Legal_Design_in_Media_Art/blob/master/README.md) (このファイルです)  
+- [README](https://github.com/yosukesakai/Practical_Guidelines_for_Legal_Design_in_Media_Art/blob/master/README.md) (このファイルです)  
 
-[メディアアートにおけるリーガルデザインの実践的ガイドライン](https://github.com/yosukesakai/Practical_Guidelines_for_Legal_Design_in_Media_Art/blob/master/Practical_Guidelines_for_Legal_Design_in_Media_Art.md) (本体)  
+- [メディアアートにおけるリーガルデザインの実践的ガイドライン](https://github.com/yosukesakai/Practical_Guidelines_for_Legal_Design_in_Media_Art/blob/master/Practical_Guidelines_for_Legal_Design_in_Media_Art.md) (本体)  
  
 
 
@@ -63,7 +63,7 @@ YCAMにおけるオープン化を伴うリーガルデザインの経験 ([YCAM
 	[2015 YCAM Sports Hackathon の参加者のための同意書](https://github.com/YCAMInterlab/SportsHackathon_ConsentForm)  
 
   
-アップデートのリクエスト(ご要望)はウェルカムです。  
+アップデートのリクエスト(ご要望)はウェルカムです(小さなことでも!)。  
 
   
 ## 開発履歴
